@@ -1,0 +1,15 @@
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\bin\Debug\net7.0\PreubaLogics.deps.json
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\bin\Debug\net7.0\PreubaLogics.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\bin\Debug\net7.0\PreubaLogics.pdb
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\bin\Debug\net7.0\PruebaDataaces.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\bin\Debug\net7.0\PruebaDataaces.pdb
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.csproj.AssemblyReference.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.AssemblyInfoInputs.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.AssemblyInfo.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.csproj.CoreCompileInputs.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.csproj.CopyComplete
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\refint\PreubaLogics.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\PreubaLogics.pdb
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PreubaLogics\obj\Debug\net7.0\ref\PreubaLogics.dll

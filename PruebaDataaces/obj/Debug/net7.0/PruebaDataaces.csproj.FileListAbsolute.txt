@@ -1,0 +1,16 @@
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\bin\Debug\net7.0\PruebaDataaces.deps.json
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\bin\Debug\net7.0\PruebaDataaces.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\bin\Debug\net7.0\PruebaDataaces.pdb
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.csproj.AssemblyReference.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.AssemblyInfoInputs.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.AssemblyInfo.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.csproj.CoreCompileInputs.cache
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\EFCoreSqlServerNodaTime.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\EFCoreSqlServerDateOnlyTimeOnly.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\EFCoreSqlServerHierarchyId.cs
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\refint\PruebaDataaces.dll
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\PruebaDataaces.pdb
+C:\Users\montenegroj\Documents\Repo-lab\PruebaGlobalhitss2\PruebaDataaces\obj\Debug\net7.0\ref\PruebaDataaces.dll
